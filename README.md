@@ -15,6 +15,11 @@ extractor = MotionExtractor(verbose=True)
 extractor.process('input_video.mp4', buffer_size=20, ratio=0.5, output_file='output.mp4')
 ```
 
+# Example
+https://github.com/AbdulmohsenA/MotionExtractor/assets/92435992/4f80e4a8-8286-477e-adc3-6cd5e5ff418e
+
+
+
 # Notes
 
 - `buffer_size`: The amount of timesteps to calculate the difference of motion.
