@@ -23,7 +23,7 @@ https://github.com/AbdulmohsenA/MotionExtractor/assets/92435992/4f80e4a8-8286-47
 # Notes
 
 - `buffer_size`: The amount of timesteps to calculate the difference of motion.
-- 'ratio': The weight out output between the first and last frame. 0.5 means all have same weight. i.e. only pure motion will be extracted.
+- `ratio`: The weight out output between the first and last frame. 0.5 means all have same weight. i.e. only pure motion will be extracted.
 
 ---
 
